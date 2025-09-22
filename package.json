@@ -1,0 +1,28 @@
+{
+  "name": "mega-backend",
+  "version": "1.0.0",
+  "description": "a mega course",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "homepage": "https://github.com/mutasimEEE/mega-backend#readme",
+  "bugs": {
+    "url": "https://github.com/mutasimEEE/mega-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutasimEEE/mega-backend.git"
+  },
+  "license": "ISC",
+  "author": "salman tahmid",
+  "type": "commonjs",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+    
+  }
+}
